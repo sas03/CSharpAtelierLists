@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\bin\Debug\net7.0\atelierCollectionsGeneriques.exe
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\bin\Debug\net7.0\atelierCollectionsGeneriques.deps.json
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\bin\Debug\net7.0\atelierCollectionsGeneriques.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\bin\Debug\net7.0\atelierCollectionsGeneriques.dll
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\bin\Debug\net7.0\atelierCollectionsGeneriques.pdb
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.dll
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\refint\atelierCollectionsGeneriques.dll
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.pdb
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\atelierCollectionsGeneriques.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\atelierCollectionsGeneriques\obj\Debug\net7.0\ref\atelierCollectionsGeneriques.dll

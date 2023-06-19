@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "atelierCollectionsGeneriques/1.0.0": {
+        "runtime": {
+          "atelierCollectionsGeneriques.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atelierCollectionsGeneriques/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
