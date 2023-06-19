@@ -23,9 +23,8 @@ public class atelierList
         nombres.Add(20);
 
         Console.WriteLine("Count = " + nombres.Count());
-        Console.WriteLine("Values[1] = " + nombres.Get(1));// nombres[1] == 20
+        Console.WriteLine("Values[1] = " + nombres.Get(1));//array doesn't support indexing - equivalent to nombres[1] == 20 in lists
 
-        Console.WriteLine(nombres[0]);
         ListBySteph<string> phrases = new ListBySteph<string>();
         phrases.Add("Nouvelle phrase");
     }
